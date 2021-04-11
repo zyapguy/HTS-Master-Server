@@ -1,6 +1,8 @@
 # HTS Master Server
  The main server repository for House Thief Simulator.
 
+ THIS PROJECT IS STILL INCOMPLETE AND IS NOT READY FOR USE YET!
+
 
 
 ### Why make this open source?
@@ -17,6 +19,7 @@ Any website host can host this, you can also a web server to host it. You also n
 * Change the values in the data.ini file to your own, such as the MySQL Host, User and Password.
 * Run the SQL file to create the necessary tables.
 * Start the web server.
+* Rename config.ini to config.env
 * Start the main.py file.
 * In the game, find the config.ini file and change SERVER_HOST to your web servers IP address.
 
